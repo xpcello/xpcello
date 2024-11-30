@@ -14,4 +14,4 @@
 - ⚡ Fun fact: I haven’t worn sweatpants to school once this year — pretty impressive for America, right? 🇺🇸  
 
 ### roadmap.sh Progress
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6730facd31d65c235dd2c668?variant=dark" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://roadmap.sh/card/tall/6730facd31d65c235dd2c668?variant=dark)](https://roadmap.sh)
