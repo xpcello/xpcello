@@ -12,3 +12,6 @@
 - 📫 How to reach me: [Email](mailto:contact@xavierp.me) | [X/Twitter](https://x.com/xpcello) | My site (under construction 🚧).  
 - 😄 Pronouns: **he/him**  
 - ⚡ Fun fact: I haven’t worn sweatpants to school once this year — pretty impressive for America, right? 🇺🇸  
+
+### roadmap.sh Progress
+[![roadmap.sh](https://roadmap.sh/card/tall/6730facd31d65c235dd2c668?variant=light)](https://roadmap.sh)
