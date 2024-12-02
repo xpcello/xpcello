@@ -4,7 +4,7 @@
 **xpcello/xpcello** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a tool to help people organize their desks using math, called **Drawersmith**. I'm also playing my cello 🎻.  
+- 🔭 I’m currently learning **frontend developement** on roadmap.sh. I'm planning to learn backend, and then full-stack,
 - 🌱 I’m currently learning **HTML** and **CSS**, exploring frameworks and diving into frontend development.  
 - 👯 I’m looking to collaborate on **open-source projects**, **team efforts**, and **anything where I can lend a hand or learn something new**.  
 - 🤔 I’m looking for help with debugging my code, sage advice, and creating a **volunteer SaaS site** (still figuring this out!).  
